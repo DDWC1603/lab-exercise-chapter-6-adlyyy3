@@ -1,13 +1,15 @@
-//include your name and matric number here
+//Akmal Adli Ariffin
+//A17DW0074
 //display the string below using the string function state below.
 
 #include <iostream>
-
+#include<cstring>
+using namespace std;
 int main()
 {
 	char engkau[10];
 
-	//stringcopy(a,"hello");
+	strcpy (engkau,"hello");
 	
 	cout<<engkau;
 
